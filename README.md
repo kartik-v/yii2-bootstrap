@@ -6,6 +6,8 @@
     <br>
 </p>
 
+### Forked by kartik-v to remove bower-asset dependency
+
 This is the Twitter Bootstrap extension for [Yii framework 2.0](http://www.yiiframework.com). It encapsulates [Bootstrap 3](http://getbootstrap.com/) components
 and plugins in terms of Yii widgets, and thus makes using Bootstrap components/plugins
 in Yii applications extremely easy.
